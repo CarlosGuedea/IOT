@@ -10,7 +10,7 @@ const int decrementButtonPin = 26; // GPIO 26 for decrement button
 const int LEDButtonPin = 27; //Pin del led
 
 // Your Domain name with URL path or IP address with path
-String serverName = "http://192.168.119.1:7800/";
+String serverName = "https://a84f-201-175-240-164.ngrok-free.app";
 
 // the following variables are unsigned longs because the time, measured in
 // milliseconds, will quickly become a bigger number than can be stored in an int.
